@@ -1,3 +1,5 @@
 Chapter 2
+=========
+
 - This new chapter continues the saga started in chapter 1.
 - Some text ...

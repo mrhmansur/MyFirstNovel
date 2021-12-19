@@ -1,3 +1,6 @@
+CHAPTER 1
+=========
+
 This is the first chapter of the book. Hello!
 
 Was supposed to make some more changes to this one!

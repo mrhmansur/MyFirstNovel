@@ -1,2 +1,5 @@
+CHARACTERS
+==========
+
 Blah blah blah ...
 Some more information about the characters.
